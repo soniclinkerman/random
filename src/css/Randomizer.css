@@ -1,0 +1,36 @@
+h1 {
+    margin: 0;
+    margin-bottom: 30px;
+}
+
+.section-one {
+    margin-bottom: 40px;
+}
+
+.section-two {
+    margin-bottom: 40px;
+}
+
+
+
+
+
+
+/* Buttons */
+
+.btn, .help {
+    background-color: #72D3FE;
+    border-radius: 2px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.btn {
+    padding: 20px; 
+}
+
+.help {
+    padding: 10px 15px;
+}
+
